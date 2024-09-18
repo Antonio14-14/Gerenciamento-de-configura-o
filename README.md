@@ -1,4 +1,4 @@
-# Gerenciamento-de-configura-o
+# Gerenciamento-de-configuracao
 Alunos: 
 1. Anderson Ciriaco de Vasconcelos -03246838
 2. Antonio Gabriel Ferreira Roca- 03335897
